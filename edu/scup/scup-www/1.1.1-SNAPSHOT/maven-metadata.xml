@@ -2,13 +2,12 @@
 <metadata>
   <groupId>edu.scup</groupId>
   <artifactId>scup-www</artifactId>
-  <version>1.0.0</version>
+  <version>1.1.1-SNAPSHOT</version>
   <versioning>
-    <versions>
-      <version>1.0.0</version>
-      <version>1.1.0</version>
-      <version>1.1.1-SNAPSHOT</version>
-    </versions>
+    <snapshot>
+      <timestamp>20141226.125328</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
     <lastUpdated>20141226125328</lastUpdated>
   </versioning>
 </metadata>
