@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cn.wujc</groupId>
+  <artifactId>java-utils</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0</version>
+      <version>1.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160313103058</lastUpdated>
+  </versioning>
+</metadata>
